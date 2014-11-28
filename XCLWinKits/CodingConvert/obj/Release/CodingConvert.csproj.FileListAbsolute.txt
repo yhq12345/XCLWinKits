@@ -1,0 +1,13 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\CodingConvert.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\CodingConvert.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\obj\Release\CodingConvert.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\obj\Release\CodingConvert.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\bin\Release\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\obj\Release\CodingConvert.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\obj\Release\CodingConvert.Index.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CodingConvert\obj\Release\CodingConvert.csproj.GenerateResource.Cache

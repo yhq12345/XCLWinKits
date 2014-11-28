@@ -1,0 +1,7 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\bin\Release\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\bin\Release\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\bin\Release\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\bin\Release\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\obj\Release\CommonHelper.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\obj\Release\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonHelper\obj\Release\CommonHelper.pdb

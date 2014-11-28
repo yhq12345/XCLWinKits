@@ -1,0 +1,15 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\XCLNetFileReplace.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\XCLNetFileReplace.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\Aspose.Cells.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\Aspose.Words.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\bin\Debug\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\obj\Debug\XCLNetFileReplace.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\obj\Debug\XCLNetFileReplace.Index.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\obj\Debug\XCLNetFileReplace.csproj.GenerateResource.Cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\obj\Debug\XCLNetFileReplace.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLNetFileReplace\obj\Debug\XCLNetFileReplace.pdb

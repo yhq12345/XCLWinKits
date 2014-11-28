@@ -1,0 +1,13 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\MD5Tool.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\MD5Tool.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\bin\Debug\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\obj\Debug\MD5Tool.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\obj\Debug\MD5Tool.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\obj\Debug\MD5Tool.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\obj\Debug\MD5Tool.Index.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\MD5Tool\obj\Debug\MD5Tool.csproj.GenerateResource.Cache

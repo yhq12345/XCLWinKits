@@ -1,0 +1,5 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\bin\Release\DllFiles.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\bin\Release\DllFiles.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\obj\Release\DllFiles.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\obj\Release\DllFiles.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\obj\Release\DllFiles.csprojResolveAssemblyReference.cache

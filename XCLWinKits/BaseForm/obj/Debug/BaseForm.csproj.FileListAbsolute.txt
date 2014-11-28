@@ -1,0 +1,11 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\bin\Debug\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\obj\Debug\BaseForm.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\obj\Debug\BaseForm.BaseFormClass.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\obj\Debug\BaseForm.csproj.GenerateResource.Cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\obj\Debug\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\BaseForm\obj\Debug\BaseForm.pdb

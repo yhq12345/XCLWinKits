@@ -1,0 +1,13 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\CommonEncrypt.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\CommonEncrypt.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\bin\Debug\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\obj\Debug\CommonEncrypt.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\obj\Debug\CommonEncrypt.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\obj\Debug\CommonEncrypt.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\obj\Debug\CommonEncrypt.Index.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\CommonEncrypt\obj\Debug\CommonEncrypt.csproj.GenerateResource.Cache

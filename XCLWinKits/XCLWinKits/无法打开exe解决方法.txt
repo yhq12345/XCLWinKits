@@ -1,0 +1,3 @@
+本程序基于.net framework 4.0  
+请确保您的电脑上面已安装。
+若未安装，请转至http://www.microsoft.com/zh-cn/download/details.aspx?id=17718 下载安装一下再安装本软件

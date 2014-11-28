@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <CategoryList>
+            <Category Name="文件处理" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="文件批量改名改内容" AssemblyName="XCLNetFileReplace"></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="文本处理" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="正则表达式测试" AssemblyName="XCLRegexpTool"></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="搜索引擎" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="" AssemblyName=""></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="加密解密" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="MD5加密" AssemblyName="MD5Tool"></CategoryItem>
+                    <CategoryItem Sort="0" Name="其它加密解密" AssemblyName="CommonEncrypt"></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="随机数" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="" AssemblyName=""></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="编码转换" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="字符编码转换" AssemblyName="CodingConvert"></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="域名IP" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="" AssemblyName=""></CategoryItem>
+                </CategoryItemList>
+            </Category>
+            <Category Name="JS_CSS" Sort="0">
+                <CategoryItemList>
+                    <CategoryItem Sort="0" Name="" AssemblyName=""></CategoryItem>
+                </CategoryItemList>
+            </Category>
+    </CategoryList>
+</Root>

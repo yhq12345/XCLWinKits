@@ -1,0 +1,13 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\XCLRegexpTool.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\XCLRegexpTool.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\BaseForm.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\CommonHelper.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\XCLNetTools.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\BaseForm.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\CommonHelper.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\bin\Release\XCLNetTools.xml
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\obj\Release\XCLRegexpTool.csprojResolveAssemblyReference.cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\obj\Release\XCLRegexpTool.Index.resources
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\obj\Release\XCLRegexpTool.csproj.GenerateResource.Cache
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\obj\Release\XCLRegexpTool.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\XCLRegexpTool\obj\Release\XCLRegexpTool.pdb

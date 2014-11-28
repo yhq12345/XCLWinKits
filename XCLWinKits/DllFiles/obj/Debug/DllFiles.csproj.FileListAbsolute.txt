@@ -1,0 +1,4 @@
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\bin\Debug\DllFiles.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\bin\Debug\DllFiles.pdb
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\obj\Debug\DllFiles.dll
+D:\Work\TFS\TFSData\XCLWork\MyTask\XCLWinKits\MainLine\DllFiles\obj\Debug\DllFiles.pdb

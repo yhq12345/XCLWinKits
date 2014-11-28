@@ -1,0 +1,14 @@
+软件名称：XCLNetFileReplace（文件名文件内容批量替换工具）
+版本：1.0
+发布日期：2013-12-29
+操作系统：windows（with .net framework 4.0）
+描述：本软件可以对文件名和内容进行批量替换，可选用正则表达式进行复杂的替换，支持Word/Excel/文本文件(无需安装office)，同时也可以导出替换结果。
+安装说明：无需安装，可直接运行，若运行时报错，请转至http://www.microsoft.com/zh-cn/download/details.aspx?id=17718 下载安装一下再安装本软件。
+作者：XCL
+联系方式：80213876@qq.com   http://blog.csdn.net/luoyeyu1989
+
+更新记录：
+v1.0.1.0
+	2014-08-10
+	1、修复几个小bug
+	2、当未选择【替换文件内容】时，将不会对文件进行验证

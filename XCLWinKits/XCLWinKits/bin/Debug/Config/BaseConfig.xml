@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <XCLNetFileReplace>
+        <SearchOptions>文件内容</SearchOptions>
+        <OutPutPath></OutPutPath>
+    </XCLNetFileReplace>
+</Root>
